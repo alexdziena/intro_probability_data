@@ -206,7 +206,7 @@ variable that comes after me".
 </ol>
 
 ```{r extract-counts-of-girls-born}
-# type your code for the Question 2 here, and Knit
+arbuthnot$girls
 
 ```
 
